@@ -1,0 +1,6 @@
+{
+  "mail_server": "xxxxx:25",
+  "publickey_api_url" : "https://api.github.com/users/%s/keys",
+  "git_api_key" : "xxxxxx",
+  "from_email" : "xxxxx@yahoo.com"
+}
