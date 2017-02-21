@@ -7,7 +7,7 @@ The program requires the sender's and receiver's public key to be available on a
 ### Build
 1. Install Go & set GOPATH
 2. `cd $GOPATH`
-3. `git clone https://github.vrsn.com/go-hackathon/go-rsacrypt.git ./src/go-rsacrypt`
+3. `git clone https://github.com/sumitd/go-rsacrypt.git ./src/go-rsacrypt`
 4. `go install go-rsacrypt`
 5. Copy the config file resources/config.json to /etc/go-rsacrypt/config.json. You may want to update the mail server and git api key that has permission of read:public_key
 
